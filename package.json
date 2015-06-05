@@ -1,0 +1,30 @@
+{
+  "name": "transducer-protocol",
+  "version": "1.0.0",
+  "description": "Official protocol for transducers",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Fabian Eichenberger",
+    "email": "fabian.eichenberger@gmail.com",
+    "url": "https://github.com/queckezz"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "protocol,",
+    "transducers,",
+    "transducer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/queckezz/transducer-protocol.git"
+  },
+  "homepage": "https://github.com/queckezz/transducer-protocol",
+  "bugs": {
+    "url": "https://github.com/queckezz/transducer-protocol/issues"
+  }
+}
